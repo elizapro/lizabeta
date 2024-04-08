@@ -7,6 +7,7 @@ var server = http.createServer(function(request,response){
 });
 
 // 8080 실행
-server.listen(8080, function(){ 
+server.listen(5500, function(){ 
     console.log('Server is running...');
 });
+
